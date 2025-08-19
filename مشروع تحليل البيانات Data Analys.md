@@ -14,7 +14,7 @@
 
 \- \[فتح الكود على COLAB ]
 
-الرابط : (https://colab.research.google.com/drive/1UA-f64xt1jrmJX3FdBJ1\_SeanHKqX1re?usp=sharing)
+الرابط :https://colab.research.google.com/drive/1UA-f64xt1jrmJX3FdBJ1_SeanHKqX1re
 
 \## 📄 التقرير
 
@@ -37,6 +37,7 @@
 \- تأكد من تثبيت المكتبات المطلوبة باستخدام pip install -r requirements.txt.
 
 \- للحصول على أفضل تجربة، يُفضل تشغيل الكود في بيئة Google Colab.
+
 
 
 
