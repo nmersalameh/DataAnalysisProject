@@ -1,44 +1,33 @@
-\# مشروع تحليل البيانات (Data Analysis Project)
+# Marketing Campaign Performance Analysis
 
+## Project Overview
 
+This project analyzes marketing campaign performance to understand customer responses, evaluate campaign effectiveness, and identify trends using data analysis and visualization.
 
-\## 📊 نظرة عامة
+## Tools & Technologies
 
-يهدف هذا المشروع إلى تحليل بيانات المبيعات باستخدام Python وPandas، مع تقديم تصورات بيانية ورؤى قابلة للتنفيذ.
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
 
+## Key Analysis
 
+- Analyzed marketing campaign data to explore customer response patterns.
+- Examined campaign response rates across different years and customer segments.
+- Presented key performance indicators (KPIs) and visualizations to summarize campaign performance.
 
-\## 🚀 كيفية تشغيل الكود
+## Project Results
 
-يمكنك فتح وتشغيل الكود مباشرة من خلال Google Colab:
+The report summarizes 2,224 customer records, 331 responses, and an overall response rate of approximately 15%.
 
-\- \[فتح الكود على COLAB ]
+## Project Files
 
-الرابط :https://colab.research.google.com/drive/1UA-f64xt1jrmJX3FdBJ1_SeanHKqX1re
+**Python Analysis Notebook**
 
-\## 📄 التقرير
+[View on Google Colab](https://colab.research.google.com/drive/1UA-f64xt1jrmJX3FdBJ1_SeanHKqX1re)
 
-للاطلاع على التقرير الكامل للمشروع بصيغة PDF، يمكنك تحميله من الرابط التالي:
+**Dashboard & Analysis Report**
 
-\- \[تحميل التقرير PDF](https://github.com/nmersalameh/DataAnalysisProject/commit/ddbc47d1246e07b77a7216e838055bf8eaa8a564)
-
-
-
-\## 🛠 المتطلبات
-
-\- Python 3.x
-
-\- مكتبات: Pandas, Matplotlib, Seaborn
-
-
-
-\## 📌 ملاحظات
-
-\- تأكد من تثبيت المكتبات المطلوبة باستخدام pip install -r requirements.txt.
-
-\- للحصول على أفضل تجربة، يُفضل تشغيل الكود في بيئة Google Colab.
-
-
-
-
-
+[View PDF Report](https://github.com/nmersalameh/DataAnalysisProject/blob/main/Responses%20of%20cam%20Campian.pdf)
